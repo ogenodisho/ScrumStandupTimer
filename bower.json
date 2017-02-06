@@ -1,0 +1,21 @@
+{
+    "name": "ScrumStandupTimer",
+    "homepage": "https://github.com/ogenodisho/ScrumStandupTimer",
+    "authors": [
+        "Ogen Odisho <ogen.odisho@orionhealth.com>"
+    ],
+    "description": "A tool for timing Scrum standup meetings.",
+    "main": "app.js",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "react": "^15.4.2"
+    }
+}

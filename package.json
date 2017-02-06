@@ -1,0 +1,23 @@
+{
+    "name": "scrum-standup-timer",
+    "version": "1.0.0",
+    "description": "A tool for timing Scrum standup meetings.",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ogenodisho/ScrumStandupTimer.git"
+    },
+    "author": "Ogen Odisho",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ogenodisho/ScrumStandupTimer/issues"
+    },
+    "homepage": "https://github.com/ogenodisho/ScrumStandupTimer#readme",
+    "devDependencies": {
+        "nodemon": "^1.11.0"
+    }
+}
