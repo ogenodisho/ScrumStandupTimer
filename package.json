@@ -1,6 +1,9 @@
 {
     "name": "scrum-standup-timer",
     "version": "1.0.0",
+    "babel": {
+        "presets": ["env"]
+    },
     "description": "A tool for timing Scrum standup meetings.",
     "main": "app.js",
     "scripts": {
@@ -18,6 +21,8 @@
     },
     "homepage": "https://github.com/ogenodisho/ScrumStandupTimer#readme",
     "devDependencies": {
+        "babel-core": "^6.22.1",
+        "babel-preset-env": "^1.1.8",
         "nodemon": "^1.11.0"
     }
 }

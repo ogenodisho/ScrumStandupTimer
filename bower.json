@@ -1,5 +1,5 @@
 {
-    "name": "ScrumStandupTimer",
+    "name": "scrum-standup-timer",
     "homepage": "https://github.com/ogenodisho/ScrumStandupTimer",
     "authors": [
         "Ogen Odisho <ogen.odisho@orionhealth.com>"
@@ -17,5 +17,8 @@
     "dependencies": {
         "bootstrap": "^3.3.7",
         "react": "^15.4.2"
+    },
+    "devDependencies": {
+        "requirejs": "^2.3.2"
     }
 }
